@@ -70,3 +70,5 @@ Hey little train, wait for me
 I once was blind but now I see, ooh
 
 Some content for 1 commit
+
+Some content for 2 commit
